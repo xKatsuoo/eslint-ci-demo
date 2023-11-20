@@ -1,7 +1,7 @@
 module.export = { 
 "env": { 
     "node": true, // Definiert Umgebungsvariablen für Node.js 
-    "es2021": true // Legt fest, dass der Code ECMAScript 2021 entsprechen soll 
+    "es6": true // Legt fest, dass der Code ECMAScript 2021 entsprechen soll 
   }, 
   "extends": "eslint:recommended", // Verwendet die empfohlenen ESLint-Regeln 
   "parserOptions": { 
